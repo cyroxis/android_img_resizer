@@ -30,7 +30,7 @@ For example a image in res/drawable/xxhdpi with 300x300px as the base file will 
 	
 ## How To use it 
 
-In the Android Project directory (PATH that has a AndroidManifest.xml) file please type: 
+In the Android Project directory type: 
 
 ```
 cd <PROJECT_PATH>

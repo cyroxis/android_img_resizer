@@ -8,7 +8,7 @@ puts "Android Resource Image Resizer "+AndroidImgResizer::VERSION
 puts "----------------------------------------------------------------------"
 
 def print_sintax()
-  puts "In the Android Project directory (PATH that has a AndroidManifest.xml) file please type: \n\n"
+  puts "In the Android Project directory file please type: \n\n"
   puts "android_img_resizer list <baseline_dpi>: To list Resource Image Files  \n\n"
   puts "android_img_resizer img <image_filename> <baseline_dpi> : To Resize a Resource Image File : \n\n"
   puts "android_img_resizer all <baseline_dpi> : To Resize all Resource Image files : \n\n"
